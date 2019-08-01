@@ -1,5 +1,5 @@
  # Objective
- The objective of this project was to predict the number of taxi pickups that will happen in next 10 minutes.
+ The objective of this project was to predict the number of taxi pickups that will happen in next 10 minutes given the lattitide and longitude of the region in New York city. 
  
  # Data source
 Ge the data from : http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml (2016 data)
